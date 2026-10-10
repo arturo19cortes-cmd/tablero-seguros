@@ -1,0 +1,6 @@
+streamlit==1.65.0
+pandas==2.2.3
+numpy==2.3.5
+matplotlib==3.10.8
+statsmodels==0.15.0
+pyarrow==25.0.1
